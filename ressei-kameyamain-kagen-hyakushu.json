@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kameyamain-kagen-hyakushu",
  "yomi": "かげんせんとうおんひゃくしゅ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "嘉元元年（1303）頃",
+  "author": "亀山院",
+  "desc": "後宇多院のもとで召された嘉元百首のうち、亀山院の百首。四季・恋・雑の題で詠まれている。"
+ },
  "editions": [
   {
    "pid": "945300",
