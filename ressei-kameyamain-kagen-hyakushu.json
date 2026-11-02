@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 8,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "ressei-kameyamain-kagen-hyakushu-0001",
@@ -1054,6 +1057,7 @@
   "poems": 78,
   "editions": 1,
   "updated": "2026-11-02",
-  "updated_at": "2026-11-02T09:53:55+09:00"
+  "updated_at": "2026-11-02T09:53:55+09:00",
+  "yaku": 8
  }
 }
